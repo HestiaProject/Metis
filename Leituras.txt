@@ -1,0 +1,12 @@
+﻿Leituras Mandatorias:
+
+- "SPL Intro for Hestia" - Laser - /Documentos
+- "Component-Based Software Engineering" - Jifeng, Li, Liu
+- "Building Reliable Component-Based Software Systems" - Crnkovic
+
+Leituras Recomendadas:
+
+- "Software Architecture - Foundations, Theory and Practice" - Taylor, Medvidovic, Dashofy - Capitulo 1
+- "Software Product Lines: Practices and Patterns" - Clements, Northrop - Capítulo 1
+- "Component-Based Software Engineering: Building Systems from Components" - Crnkovic, Larsson, Stafford
+- "A Case Study: Demands on Component-based Development" - Crnkovic, Larsson
